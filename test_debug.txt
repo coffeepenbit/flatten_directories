@@ -1,0 +1,12 @@
+.
+├── CHANGELOG.md
+├── flatten_directories.sh
+├── LICENSE
+├── README.md
+├── target_dir
+│   ├── subdir1_book.epub
+│   └── subdir1_subdir2_book2.epub
+├── test_debug.txt
+└── tests.sh
+
+1 directory, 8 files
